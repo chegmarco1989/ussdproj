@@ -1,5 +1,5 @@
-# ussd-nsano-example
-A sample project created with laravel-ussd and nsano
+# ussd-Personal-example
+A sample project created with laravel-PHP-ussd
 
 ## Getting Started
 
