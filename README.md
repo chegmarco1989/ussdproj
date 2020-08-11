@@ -16,10 +16,10 @@ Please run the following commands to setup your development env up.
 
 ```bash
 # clone this repository
-git clone https://github.com/yawmanford/ussd-nsano-example.git
+git clone https://github.com/chegmarco1989/ussdproj.git
 
 # change directory
-cd ussd-nsano-example/
+cd ussdproj/
 
 # install the project's dependencies using Composer
 composer install
@@ -71,6 +71,4 @@ Run the following artisan command if you are using the default cache store
 php artisan cache:clear
 ```
 
-### Documentation
 
-You'll find the documentation on [https://sparors.github.io/ussd-docs](https://sparors.github.io/ussd-docs/).
